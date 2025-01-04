@@ -4,7 +4,7 @@
 I'm **Bashar**, from the beautiful Netherlands. 🌷
 I'm currently a software engineering student at **Hanze University**🎓.
 
- My journey into the world of programming 👨‍💻 began back in 2019, Since then, I've been turning coffee and food into code, diving headfirst into the world of programming.
+ My journey into the world of programming 👨‍💻 began back in 2019, Since then, I've been turning coffee and food into code.
  
  If you're interested in collaborating or have any questions, feel free to reach out to me on codewithbashar@gmail.com . Let's connect and create something awesome together! 🚀
 
