@@ -1,7 +1,7 @@
 
 # Hello there! 👋
 
-I'm **Bashar**, from the beautiful Netherlands. 🌷
+I'm **Mohamad Bashar**, from the beautiful Netherlands. 🌷
 I'm currently a software engineering student at **Hanze University**🎓.
 
  My journey into the world of programming 👨‍💻 began back in 2019, Since then, I've been turning coffee and food into code.
